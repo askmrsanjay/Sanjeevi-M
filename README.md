@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Azure & Databricks–certified **Data Engineer with 3.7+ years of experience** in designing, automating, and optimizing scalable **ETL / ELT pipelines** using **PySpark, Snowflake, Delta Lake, and Azure cloud services**.
+Azure & Databricks–certified **Data Engineer with 4 years of experience** in designing, automating, and optimizing scalable **ETL / ELT pipelines** using **PySpark, Snowflake, Delta Lake, and Azure cloud services**.
 
 I specialize in:
 - Metadata-driven frameworks  
